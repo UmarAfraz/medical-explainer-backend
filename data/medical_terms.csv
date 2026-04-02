@@ -1,0 +1,54 @@
+category,test_category,test_code,test_name,description,unit,normal_range
+Blood Test,Complete Blood Count,WBC,White Blood Cells,Cells that fight infection,10^9/L,4.0-11.0
+Blood Test,Complete Blood Count,RBC,Red Blood Cells,Cells that carry oxygen throughout your body,10^12/L,4.5-5.9
+Blood Test,Complete Blood Count,HGB,Hemoglobin,Protein in red blood cells that carries oxygen,g/dL,13.5-17.5
+Blood Test,Complete Blood Count,HCT,Hematocrit,Percentage of blood made up of red blood cells,%,38-50
+Blood Test,Complete Blood Count,PLT,Platelets,Cells that help blood clot,10^9/L,150-400
+Blood Test,Complete Blood Count,MCV,Mean Corpuscular Volume,Average size of red blood cells,fL,80-100
+Blood Test,Basic Metabolic Panel,Glucose,Blood Glucose,Sugar level in your blood,mg/dL,
+Blood Test,Basic Metabolic Panel,Calcium,Calcium,Mineral important for bones and muscles,mg/dL,8.5-10.5
+Blood Test,Basic Metabolic Panel,Sodium,Sodium,Electrolyte that helps balance fluids,mmol/L,136-145
+Blood Test,Basic Metabolic Panel,Potassium,Potassium,Electrolyte important for heart and muscle function,mmol/L,3.5-5.0
+Blood Test,Basic Metabolic Panel,BUN,Blood Urea Nitrogen,Waste product filtered by kidneys,mg/dL,7-20
+Blood Test,Basic Metabolic Panel,Creatinine,Creatinine,Waste product that shows how well kidneys are working,mg/dL,0.7-1.3
+Blood Test,Lipid Panel,Total_Cholesterol,Total Cholesterol,Overall amount of cholesterol in blood,mg/dL,
+Blood Test,Lipid Panel,LDL,LDL Cholesterol,Bad cholesterol that can clog arteries,mg/dL,
+Blood Test,Lipid Panel,HDL,HDL Cholesterol,Good cholesterol that helps remove bad cholesterol,mg/dL,
+Blood Test,Lipid Panel,Triglycerides,Triglycerides,Type of fat in your blood,mg/dL,
+Blood Test,Thyroid Function Tests,TSH,Thyroid Stimulating Hormone,Hormone that controls thyroid function,mIU/L,0.4-4.0
+Blood Test,Thyroid Function Tests,T4,Thyroxine,Main hormone produced by thyroid,mcg/dL,5.0-12.0
+Blood Test,Thyroid Function Tests,T3,Triiodothyronine,Active form of thyroid hormone,ng/dL,100-200
+Blood Test,Liver Function Tests,ALT,Alanine Aminotransferase,Enzyme found mainly in liver,U/L,7-56
+Blood Test,Liver Function Tests,AST,Aspartate Aminotransferase,Enzyme found in liver and other organs,U/L,10-40
+Blood Test,Liver Function Tests,ALP,Alkaline Phosphatase,Enzyme related to liver and bones,U/L,44-147
+Blood Test,Liver Function Tests,Bilirubin,Total Bilirubin,Substance produced when red blood cells break down,mg/dL,0.1-1.2
+Imaging,Radiology Common,consolidation,Consolidation,Area where air spaces in lungs are filled with fluid or cells,,
+Imaging,Radiology Common,effusion,Effusion,Buildup of fluid in a space that normally has little fluid,,
+Imaging,Radiology Common,nodule,Nodule,Small round growth,,
+Imaging,Radiology Common,mass,Mass,Larger abnormal growth,,
+Imaging,Radiology Common,pneumothorax,Pneumothorax,Air in the space around the lungs (collapsed lung),,
+Imaging,Radiology Common,cardiomegaly,Cardiomegaly,Enlarged heart,,
+Imaging,Radiology Common,atelectasis,Atelectasis,Partial or complete collapse of lung,,
+Imaging,Radiology Common,infiltrate,Infiltrate,Abnormal substance in tissue,,
+Imaging,Radiology Common,opacity,Opacity,Area that blocks X-rays (appears white),,
+Imaging,Radiology Common,lucency,Lucency,Area that allows X-rays through (appears dark),,
+Imaging,Ct Mri Common,lesion,Lesion,Abnormal area of tissue,,
+Imaging,Ct Mri Common,enhancement,Enhancement,Area that shows up brighter after contrast dye,,
+Imaging,Ct Mri Common,edema,Edema,Swelling due to fluid,,
+Imaging,Ct Mri Common,hemorrhage,Hemorrhage,Bleeding,,
+Imaging,Ct Mri Common,infarct,Infarct,Area of dead tissue due to lack of blood supply,,
+Imaging,Ct Mri Common,stenosis,Stenosis,Narrowing of a passage or vessel,,
+Imaging,Ct Mri Common,occlusion,Occlusion,Blockage,,
+Imaging,Ct Mri Common,aneurysm,Aneurysm,Bulge in blood vessel wall,,
+General Medical,General Terms,normal,Normal,Within expected range,,
+General Medical,General Terms,abnormal,Abnormal,Outside expected range,,
+General Medical,General Terms,elevated,Elevated,Higher than normal,,
+General Medical,General Terms,decreased,Decreased,Lower than normal,,
+General Medical,General Terms,acute,Acute,"Sudden onset, short duration",,
+General Medical,General Terms,chronic,Chronic,Long-lasting or recurring,,
+General Medical,General Terms,benign,Benign,Not harmful or cancerous,,
+General Medical,General Terms,malignant,Malignant,Cancerous,,
+General Medical,General Terms,negative,Negative,Test did not find what it was looking for (often good news),,
+General Medical,General Terms,positive,Positive,Test found what it was looking for,,
+General Medical,General Terms,unremarkable,Unremarkable,"Normal, nothing unusual to note",,
+General Medical,General Terms,significant,Significant,"Important, notable finding",,

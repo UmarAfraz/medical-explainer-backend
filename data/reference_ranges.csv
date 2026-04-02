@@ -1,0 +1,86 @@
+test_name,full_name,unit,min_normal,max_normal,age_group,gender,category,critical_low,critical_high,description
+WBC,White Blood Cells,10^9/L,4.0,11.0,adult,both,CBC,2.0,30.0,Cells that fight infection in your body
+RBC,Red Blood Cells,10^12/L,4.5,5.9,adult,male,CBC,2.5,7.0,Cells that carry oxygen throughout your body
+RBC,Red Blood Cells,10^12/L,4.1,5.1,adult,female,CBC,2.5,7.0,Cells that carry oxygen throughout your body
+HGB,Hemoglobin,g/dL,13.5,17.5,adult,male,CBC,7.0,20.0,Protein in red blood cells that carries oxygen
+HGB,Hemoglobin,g/dL,12.0,16.0,adult,female,CBC,7.0,20.0,Protein in red blood cells that carries oxygen
+HCT,Hematocrit,%,38,50,adult,male,CBC,20,60,Percentage of blood made up of red blood cells
+HCT,Hematocrit,%,34,44,adult,female,CBC,20,60,Percentage of blood made up of red blood cells
+PLT,Platelets,10^9/L,150,400,adult,both,CBC,20,1000,Cells that help your blood clot to stop bleeding
+MCV,Mean Corpuscular Volume,fL,80,100,adult,both,CBC,50,120,Average size of your red blood cells
+MCH,Mean Corpuscular Hemoglobin,pg,27,33,adult,both,CBC,20,40,Average amount of hemoglobin in each red blood cell
+MCHC,Mean Corpuscular Hemoglobin Concentration,g/dL,32,36,adult,both,CBC,28,40,Average concentration of hemoglobin in red blood cells
+RDW,Red Cell Distribution Width,%,11.5,14.5,adult,both,CBC,10,20,Variation in size of red blood cells
+Neutrophils,Neutrophils,%,40,70,adult,both,CBC,20,90,Type of white blood cell that fights bacterial infections
+Lymphocytes,Lymphocytes,%,20,40,adult,both,CBC,10,60,Type of white blood cell that fights viral infections
+Monocytes,Monocytes,%,2,8,adult,both,CBC,0,15,Type of white blood cell that fights infections and removes dead cells
+Eosinophils,Eosinophils,%,1,4,adult,both,CBC,0,10,Type of white blood cell involved in allergic reactions
+Basophils,Basophils,%,0,1,adult,both,CBC,0,3,Type of white blood cell involved in immune responses
+Glucose,Blood Glucose (Fasting),mg/dL,70,100,adult,both,BMP,40,400,Sugar level in your blood when fasting
+Glucose,Blood Glucose (Random),mg/dL,70,125,adult,both,BMP,40,400,Sugar level in your blood at any time
+Calcium,Calcium,mg/dL,8.5,10.5,adult,both,BMP,6.0,13.0,Mineral important for bones and muscles
+Sodium,Sodium,mmol/L,136,145,adult,both,BMP,120,160,Electrolyte that helps balance fluids in your body
+Potassium,Potassium,mmol/L,3.5,5.0,adult,both,BMP,2.5,6.5,Electrolyte important for heart and muscle function
+Chloride,Chloride,mmol/L,98,107,adult,both,BMP,80,120,Electrolyte that helps maintain fluid balance
+CO2,Carbon Dioxide,mmol/L,22,29,adult,both,BMP,15,35,Measure of acid-base balance in your blood
+BUN,Blood Urea Nitrogen,mg/dL,7,20,adult,both,BMP,2,100,Waste product filtered by your kidneys
+Creatinine,Creatinine,mg/dL,0.7,1.3,adult,male,BMP,0.3,10.0,Waste product that shows how well kidneys are working
+Creatinine,Creatinine,mg/dL,0.6,1.1,adult,female,BMP,0.3,10.0,Waste product that shows how well kidneys are working
+eGFR,Estimated GFR,mL/min/1.73m2,90,120,adult,both,BMP,15,150,Estimate of how well your kidneys filter blood
+Total_Cholesterol,Total Cholesterol,mg/dL,0,200,adult,both,Lipid,100,400,Overall amount of cholesterol in your blood
+LDL,LDL Cholesterol,mg/dL,0,100,adult,both,Lipid,40,300,Bad cholesterol that can clog arteries
+HDL,HDL Cholesterol,mg/dL,40,60,adult,both,Lipid,20,100,Good cholesterol that helps remove bad cholesterol
+Triglycerides,Triglycerides,mg/dL,0,150,adult,both,Lipid,50,1000,Type of fat in your blood
+VLDL,VLDL Cholesterol,mg/dL,2,30,adult,both,Lipid,0,50,Another type of bad cholesterol
+Non_HDL,Non-HDL Cholesterol,mg/dL,0,130,adult,both,Lipid,50,350,Total cholesterol minus good cholesterol
+TSH,Thyroid Stimulating Hormone,mIU/L,0.4,4.0,adult,both,Thyroid,0.1,10.0,Hormone that controls your thyroid function
+T4,Thyroxine (Total),mcg/dL,5.0,12.0,adult,both,Thyroid,2.0,20.0,Main hormone produced by your thyroid
+Free_T4,Free T4,ng/dL,0.8,1.8,adult,both,Thyroid,0.4,3.0,Active form of thyroid hormone not bound to proteins
+T3,Triiodothyronine (Total),ng/dL,100,200,adult,both,Thyroid,50,300,Active form of thyroid hormone
+Free_T3,Free T3,pg/mL,2.3,4.2,adult,both,Thyroid,1.0,6.0,Active thyroid hormone not bound to proteins
+ALT,Alanine Aminotransferase,U/L,7,56,adult,both,Liver,0,500,Enzyme found mainly in your liver
+AST,Aspartate Aminotransferase,U/L,10,40,adult,both,Liver,0,500,Enzyme found in liver and other organs
+ALP,Alkaline Phosphatase,U/L,44,147,adult,both,Liver,20,500,Enzyme related to liver and bones
+Total_Bilirubin,Total Bilirubin,mg/dL,0.1,1.2,adult,both,Liver,0.0,20.0,Substance produced when red blood cells break down
+Direct_Bilirubin,Direct Bilirubin,mg/dL,0.0,0.3,adult,both,Liver,0.0,5.0,Processed form of bilirubin
+Albumin,Albumin,g/dL,3.5,5.5,adult,both,Liver,1.5,6.0,Main protein in your blood made by liver
+Total_Protein,Total Protein,g/dL,6.0,8.3,adult,both,Liver,4.0,10.0,All proteins in your blood combined
+GGT,Gamma-Glutamyl Transferase,U/L,0,51,adult,both,Liver,0,300,Enzyme that indicates liver or bile duct problems
+HbA1c,Hemoglobin A1c,%,4.0,5.6,adult,both,Diabetes,3.0,15.0,Average blood sugar over past 2-3 months
+Vitamin_D,Vitamin D (25-OH),ng/mL,30,100,adult,both,Vitamin,10,150,Vitamin important for bones and immune system
+Vitamin_B12,Vitamin B12,pg/mL,200,900,adult,both,Vitamin,100,2000,Vitamin important for nerves and blood cells
+Folate,Folate (Folic Acid),ng/mL,2.7,17.0,adult,both,Vitamin,1.0,30.0,Vitamin important for making new cells
+Ferritin,Ferritin,ng/mL,30,400,adult,male,Iron,10,1000,Protein that stores iron in your body
+Ferritin,Ferritin,ng/mL,15,150,adult,female,Iron,10,1000,Protein that stores iron in your body
+Iron,Serum Iron,mcg/dL,60,170,adult,both,Iron,20,300,Amount of iron in your blood
+TIBC,Total Iron Binding Capacity,mcg/dL,240,450,adult,both,Iron,200,600,Blood's capacity to carry iron
+Transferrin,Transferrin Saturation,%,20,50,adult,both,Iron,10,80,Percentage of transferrin carrying iron
+CRP,C-Reactive Protein,mg/L,0,3.0,adult,both,Inflammation,0,50,Marker of inflammation in your body
+ESR,Erythrocyte Sedimentation Rate,mm/hr,0,20,adult,male,Inflammation,0,100,How fast red blood cells settle (inflammation marker)
+ESR,Erythrocyte Sedimentation Rate,mm/hr,0,30,adult,female,Inflammation,0,100,How fast red blood cells settle (inflammation marker)
+PSA,Prostate-Specific Antigen,ng/mL,0,4.0,adult,male,Cancer_Marker,0,50,Protein that may indicate prostate problems
+CEA,Carcinoembryonic Antigen,ng/mL,0,3.0,adult,both,Cancer_Marker,0,50,Protein that may be elevated in certain cancers
+CA_125,Cancer Antigen 125,U/mL,0,35,adult,female,Cancer_Marker,0,200,Protein that may indicate ovarian cancer
+AFP,Alpha-Fetoprotein,ng/mL,0,10,adult,both,Cancer_Marker,0,100,Protein that may indicate liver cancer
+Cortisol,Cortisol (Morning),mcg/dL,6,23,adult,both,Hormone,2,50,Stress hormone produced by adrenal glands
+Testosterone,Testosterone (Total),ng/dL,300,1000,adult,male,Hormone,100,1500,Male sex hormone
+Testosterone,Testosterone (Total),ng/dL,15,70,adult,female,Hormone,5,150,Male sex hormone (also present in females)
+Estradiol,Estradiol,pg/mL,30,400,adult,female,Hormone,10,800,Main female sex hormone
+Progesterone,Progesterone,ng/mL,0.1,25,adult,female,Hormone,0,50,Hormone important for pregnancy
+LH,Luteinizing Hormone,mIU/mL,1.5,9.3,adult,male,Hormone,0.5,20,Hormone that controls sex hormone production
+LH,Luteinizing Hormone,mIU/mL,1.9,12.5,adult,female,Hormone,0.5,100,Hormone that controls ovulation and menstrual cycle
+FSH,Follicle Stimulating Hormone,mIU/mL,1.4,18.1,adult,male,Hormone,0.5,30,Hormone important for sperm production
+FSH,Follicle Stimulating Hormone,mIU/mL,3.0,20.0,adult,female,Hormone,0.5,150,Hormone important for egg development
+Prolactin,Prolactin,ng/mL,2,18,adult,male,Hormone,0,40,Hormone that stimulates milk production
+Prolactin,Prolactin,ng/mL,2,29,adult,female,Hormone,0,100,Hormone that stimulates milk production
+PT,Prothrombin Time,seconds,11,13.5,adult,both,Coagulation,8,20,How long it takes your blood to clot
+INR,International Normalized Ratio,ratio,0.8,1.2,adult,both,Coagulation,0.5,5.0,Standardized measure of blood clotting time
+aPTT,Activated Partial Thromboplastin Time,seconds,25,35,adult,both,Coagulation,20,60,Another measure of blood clotting ability
+D_Dimer,D-Dimer,ng/mL,0,500,adult,both,Coagulation,0,5000,Marker of abnormal blood clotting
+Fibrinogen,Fibrinogen,mg/dL,200,400,adult,both,Coagulation,100,700,Protein involved in blood clotting
+Magnesium,Magnesium,mg/dL,1.7,2.2,adult,both,Electrolyte,1.0,3.0,Mineral important for muscles and nerves
+Phosphorus,Phosphorus,mg/dL,2.5,4.5,adult,both,Electrolyte,1.5,7.0,Mineral important for bones and energy
+Uric_Acid,Uric Acid,mg/dL,3.5,7.2,adult,male,Metabolic,2.0,12.0,Waste product that can cause gout when high
+Uric_Acid,Uric Acid,mg/dL,2.6,6.0,adult,female,Metabolic,2.0,12.0,Waste product that can cause gout when high
+Ammonia,Ammonia,mcg/dL,15,45,adult,both,Metabolic,10,200,Waste product that liver should remove
+Lactate,Lactate,mmol/L,0.5,2.2,adult,both,Metabolic,0.3,10.0,Substance produced during intense exercise or lack of oxygen
