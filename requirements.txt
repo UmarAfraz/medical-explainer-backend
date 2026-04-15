@@ -29,3 +29,4 @@ Werkzeug==3.0.1
 # gunicorn==21.2.0  # Production WSGI server
 # redis==5.0.1      # For caching (future enhancement)
 requests>=2.31.0
+gunicorn==21.2.0

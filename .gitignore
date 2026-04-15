@@ -1,40 +1,5 @@
-# Python
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-venv/
-env/
-ENV/
-
-# Environment variables (IMPORTANT - contains API keys!)
+*.pyc
 .env
-.env.example
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# OS
+venv/
 .DS_Store
-Thumbs.db
-
-# Logs
-*.log
-app.log
-
-# Temporary files
-temp_uploads/
-*.tmp
-
-# Backup files
-*.backup
-*.bak
-
-# Database
-*.db
-*.sqlite
-
