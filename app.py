@@ -304,7 +304,7 @@ if __name__ == '__main__':
     # Run Flask development server
     logger.info(f"Starting server on {Config.HOST}:{Config.PORT}")
     app.run(
-        host=Config.HOST,
-        port=Config.PORT,
-        debug=Config.DEBUG
+       host='0.0.0.0',
+    port=int(os.environ.get('PORT', 5000)),
+    debug=False
     )
